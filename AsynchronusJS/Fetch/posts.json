@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Post one",
+    "body": "Whatever bro 1"
+  },
+  {
+    "id": 2,
+    "title": "Post two",
+    "body": "Whatever bro 2"
+  },
+  {
+    "id": 3,
+    "title": "Post three",
+    "body": "Whatever bro 3"
+  }
+]
